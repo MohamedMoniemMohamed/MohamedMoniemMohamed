@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MohamedMoniemMohamed
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning c++ && c# && R 
+- 🌱 I learned c++ && c # && R && python
