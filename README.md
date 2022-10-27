@@ -1,6 +1,6 @@
-Problem Solver 
-Competitive Programming
-Instructor and Mentor for Programming and Problem Solving
+- Problem Solver 
+- Competitive Programming
+- Instructor and Mentor for Programming and Problem Solving
 I’m interested with computer science
 Algorithms and Data Structures
 c++ && c # && R && python
