@@ -5,7 +5,6 @@
 - My YouTube Channel: https://www.youtube.com/channel/UCo4qAlrIdzz1wnn1eE_K79w/playlists
 - I’m interested with computer science
 - Algorithms and Data Structures
-- c++ && c # && R && python
 - Object-oriented programming (OOP)
 - Software Development
 - Ai & ML
