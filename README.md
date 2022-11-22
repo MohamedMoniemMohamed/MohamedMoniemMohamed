@@ -10,6 +10,7 @@
 - Ai & ML
 - Cybersecurity
 - graphic design
-- Technical Team at DiGen
-- HR at Google Developer Student Clubs (GDSC) Assiut.
-- HR at HUAWEI Student Developers (HSD) Assiut.
+- Programming or Problem Solving Team at DiGen
+- HRM at Google Developer Student Clubs (GDSC) Assiut.
+- HRM at HUAWEI Student Developers (HSD) Assiut.
+- Former HRM at Triple Bond
